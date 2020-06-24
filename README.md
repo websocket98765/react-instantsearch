@@ -10,7 +10,9 @@
 
 ---
 
-[![Version][version-svg]][package-url] [![Build Status][ci-svg]][ci-url] [![License][license-image]][license-url] [![Downloads][downloads-image]][downloads-url]
+[![Version][version-svg]][package-url] [![Build Status][ci-svg]][ci-url] [![License][license-image]][license-url] [![Downloads][downloads-image]][downloads-url] 
+[![Bundle Size](https://flat.badgen.net/bundlephobia/minzip/react-instantsearch-dom)](https://bundlephobia.com/result?p=react-instantsearch-dom@6.6.0)
+
 
 React InstantSearch is a React library that lets you create an instant-search result experience using [Algolia][algolia-website]’s search API. It is part of the InstantSearch family:
 
